@@ -1,0 +1,18 @@
+.one {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#first {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.cool {
+    font-size: 24px;
+}
+
+#second {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(144, 238, 144);
+}
